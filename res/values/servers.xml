@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ServiceName">
+        <item >Photo Blog</item>
+    </string-array>
+    <string-array name="ServiceUrl">
+        <item >http://blog.it-college.ac.jp/?feed=rss2</item>
+    </string-array>
+    
+</resources>
